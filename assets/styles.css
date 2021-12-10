@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+/* ==============Body============== */
+
+body{
+    font-family: 'Montserrat',sans-serif;
+    overflow-x: hidden;
+}
+
+/* *==============MENU============= */
+
+#menu li > a {
+    font-size: 18px;
+    font-weight:bold;
+    color: #da1010;
+}
+
+/* *==============SLIDER DE IMAGENES============= */
+
+.carousel-inner{
+    max-height: 25rem;
+}
+
+/* .carousel_slide_container {
+margin: 50px 50px 50px 50px;
+} */
+
+.container{
+    margin-top: 1rem;
+    margin-bottom: 1.5rem;
+}
+
